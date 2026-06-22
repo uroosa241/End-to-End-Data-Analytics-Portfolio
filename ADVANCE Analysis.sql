@@ -1,12 +1,5 @@
---	Build customer segmentation (VIP / Regular / Lost) 
 
-select * from csut
-
-
-
-
-
-42.	Perform RFM analysis (Recency, Frequency, Monetary) 
+Perform RFM analysis (Recency, Frequency, Monetary) 
 
 select 
 	c.customer_id,
@@ -23,23 +16,8 @@ select
 
 
 
-select * from customers
 
-select * from payments
-
-select * from orders
-
-select * from returns
-
-select * from employees
-
-
-select * from products
-
-
-
-
-43.	Build cohort analysis (customers grouped by first order month) 
+	Build cohort analysis (customers grouped by first order month) 
 
 WITH first_purchase AS (
     SELECT
@@ -137,23 +115,7 @@ ORDER BY cohort_month, month_number;
 
 
 
-
-
-)
-
-
-)
-	
-
-
-
-
-)
-
-
-
-
-45.	Identify revenue leakage due to returns 
+	Identify revenue leakage due to returns 
 
 -- how many we are losing bcz the customer returns product
 WITH revenue AS (
@@ -195,8 +157,7 @@ SELECT *
 FROM return_leakage;
 
 
-
-46.	Find top employees contributing to revenue growth 
+	Find top employees contributing to revenue growth 
 WITH revenue AS (
     SELECT
         e.employee_id,
@@ -236,12 +197,3 @@ SELECT
 FROM revenue
 ORDER BY total_revenue DESC;
 
-
-
-47.	Detect customers likely to churn 
-
-
-
-48.	Identify best acquisition month for customers 
-49.	Build full sales funnel (order → payment → return) 
-50.	Create executive KPI dashboard queries (Revenue, Growth, Retention) 
