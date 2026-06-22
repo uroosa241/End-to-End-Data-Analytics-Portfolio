@@ -96,8 +96,3 @@ select
 	where pr.total_returns > s.avg_returns + 2 * s.std_returns;
 
 
-
-
-38.	Compare paid vs pending conversion rate 
-39.	Find average time between orders per customer 
-40.	Find top 3 products per category 
