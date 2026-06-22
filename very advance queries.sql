@@ -181,15 +181,3 @@ ORDER BY cohort_month, month_number;
 
 
 
---	Identify revenue leakage due to returns 
-
-
-
-
-
-
-46.	Find top employees contributing to revenue growth 
-47.	Detect customers likely to churn 
-48.	Identify best acquisition month for customers 
-49.	Build full sales funnel (order → payment → return) 
-50.	Create executive KPI dashboard queries (Revenue, Growth, Retention) 
