@@ -52,10 +52,3 @@ SELECT
 	group by c.customer_id,c.customer_name
 	having max(order_date) < current_date - interval'90 days'
 
-
-35.	Find customers with decreasing order values 
-36.	Find products with rising demand trend 
-37.	Detect abnormal return behavior (fraud pattern) 
-38.	Compare paid vs pending conversion rate 
-39.	Find average time between orders per customer 
-40.	Find top 3 products per category 
