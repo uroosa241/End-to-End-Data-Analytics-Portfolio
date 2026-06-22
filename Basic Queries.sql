@@ -10,7 +10,7 @@ select * from returns
 
 select 
 	count(customer_id) as total_customers
-	from customers 
+	from customers;
 	
 
 
