@@ -1,0 +1,1001 @@
+return_id,order_id,reason
+1,8674,Wrong Item
+2,8934,Wrong Item
+3,6015,Damaged
+4,349,Damaged
+5,3358,Customer Changed Mind
+6,1469,Wrong Item
+7,16,Customer Changed Mind
+8,4656,Damaged
+9,3866,Wrong Item
+10,3978,Customer Changed Mind
+11,6939,Customer Changed Mind
+12,6749,Customer Changed Mind
+13,1732,Damaged
+14,7560,Damaged
+15,4292,Customer Changed Mind
+16,5823,Damaged
+17,236,Damaged
+18,4748,Customer Changed Mind
+19,6961,Customer Changed Mind
+20,307,Wrong Item
+21,2370,Customer Changed Mind
+22,8699,Wrong Item
+23,7496,Wrong Item
+24,2372,Customer Changed Mind
+25,3113,Damaged
+26,2005,Wrong Item
+27,6591,Wrong Item
+28,8696,Wrong Item
+29,6860,Damaged
+30,7428,Damaged
+31,3644,Wrong Item
+32,7216,Damaged
+33,1503,Wrong Item
+34,8923,Wrong Item
+35,8316,Damaged
+36,1884,Customer Changed Mind
+37,9928,Wrong Item
+38,5757,Wrong Item
+39,5854,Wrong Item
+40,7619,Wrong Item
+41,8682,Wrong Item
+42,3319,Damaged
+43,6176,Damaged
+44,2945,Wrong Item
+45,5365,Damaged
+46,2179,Customer Changed Mind
+47,2448,Customer Changed Mind
+48,4942,Damaged
+49,1999,Damaged
+50,9911,Wrong Item
+51,1381,Wrong Item
+52,7713,Customer Changed Mind
+53,3577,Damaged
+54,707,Damaged
+55,954,Customer Changed Mind
+56,2568,Customer Changed Mind
+57,6064,Damaged
+58,3885,Customer Changed Mind
+59,5299,Damaged
+60,3690,Customer Changed Mind
+61,5711,Customer Changed Mind
+62,2352,Customer Changed Mind
+63,403,Wrong Item
+64,1407,Wrong Item
+65,256,Wrong Item
+66,5064,Customer Changed Mind
+67,7842,Wrong Item
+68,9669,Customer Changed Mind
+69,4756,Wrong Item
+70,3605,Damaged
+71,6133,Customer Changed Mind
+72,8884,Wrong Item
+73,7056,Wrong Item
+74,1777,Customer Changed Mind
+75,2759,Customer Changed Mind
+76,6217,Customer Changed Mind
+77,8862,Customer Changed Mind
+78,2163,Customer Changed Mind
+79,4371,Customer Changed Mind
+80,6238,Customer Changed Mind
+81,6066,Damaged
+82,973,Wrong Item
+83,1177,Damaged
+84,9022,Customer Changed Mind
+85,5871,Damaged
+86,9175,Customer Changed Mind
+87,9072,Wrong Item
+88,5584,Wrong Item
+89,9519,Wrong Item
+90,8458,Damaged
+91,3464,Wrong Item
+92,7406,Customer Changed Mind
+93,3326,Wrong Item
+94,3428,Damaged
+95,9716,Wrong Item
+96,573,Wrong Item
+97,6430,Damaged
+98,807,Damaged
+99,8310,Damaged
+100,4406,Customer Changed Mind
+101,9478,Wrong Item
+102,5312,Customer Changed Mind
+103,3280,Customer Changed Mind
+104,3474,Damaged
+105,6785,Customer Changed Mind
+106,8924,Wrong Item
+107,5140,Damaged
+108,1199,Customer Changed Mind
+109,6074,Wrong Item
+110,5522,Wrong Item
+111,5920,Wrong Item
+112,7165,Customer Changed Mind
+113,8976,Damaged
+114,9112,Damaged
+115,1462,Wrong Item
+116,7507,Damaged
+117,7811,Damaged
+118,9483,Damaged
+119,9996,Damaged
+120,4669,Customer Changed Mind
+121,9991,Damaged
+122,4304,Damaged
+123,7068,Customer Changed Mind
+124,1013,Damaged
+125,3515,Damaged
+126,5905,Damaged
+127,5771,Wrong Item
+128,8826,Customer Changed Mind
+129,2576,Damaged
+130,1355,Customer Changed Mind
+131,8103,Customer Changed Mind
+132,2524,Damaged
+133,2134,Customer Changed Mind
+134,6668,Wrong Item
+135,3745,Customer Changed Mind
+136,8425,Damaged
+137,2164,Damaged
+138,6992,Wrong Item
+139,6072,Damaged
+140,1404,Wrong Item
+141,6371,Customer Changed Mind
+142,5256,Customer Changed Mind
+143,4709,Customer Changed Mind
+144,5861,Damaged
+145,3142,Damaged
+146,2758,Wrong Item
+147,3281,Customer Changed Mind
+148,8332,Wrong Item
+149,2702,Wrong Item
+150,7787,Damaged
+151,8308,Customer Changed Mind
+152,7109,Wrong Item
+153,9338,Customer Changed Mind
+154,5651,Damaged
+155,7763,Customer Changed Mind
+156,5147,Wrong Item
+157,4426,Wrong Item
+158,51,Customer Changed Mind
+159,3523,Customer Changed Mind
+160,1581,Customer Changed Mind
+161,454,Wrong Item
+162,5411,Wrong Item
+163,3212,Wrong Item
+164,4520,Customer Changed Mind
+165,5359,Wrong Item
+166,1341,Customer Changed Mind
+167,8133,Wrong Item
+168,3519,Wrong Item
+169,6674,Customer Changed Mind
+170,5621,Damaged
+171,8264,Wrong Item
+172,3768,Damaged
+173,4206,Wrong Item
+174,966,Wrong Item
+175,3590,Wrong Item
+176,62,Customer Changed Mind
+177,6193,Wrong Item
+178,7123,Damaged
+179,5063,Wrong Item
+180,860,Wrong Item
+181,518,Wrong Item
+182,4641,Customer Changed Mind
+183,1812,Customer Changed Mind
+184,9687,Damaged
+185,7118,Customer Changed Mind
+186,1143,Wrong Item
+187,325,Customer Changed Mind
+188,4369,Customer Changed Mind
+189,9449,Wrong Item
+190,1602,Wrong Item
+191,9292,Customer Changed Mind
+192,304,Wrong Item
+193,3517,Customer Changed Mind
+194,3252,Customer Changed Mind
+195,7785,Wrong Item
+196,4827,Damaged
+197,1353,Customer Changed Mind
+198,7640,Damaged
+199,8475,Damaged
+200,6203,Customer Changed Mind
+201,7755,Customer Changed Mind
+202,3742,Wrong Item
+203,3583,Wrong Item
+204,3592,Damaged
+205,1367,Damaged
+206,3186,Customer Changed Mind
+207,6143,Customer Changed Mind
+208,6669,Wrong Item
+209,9946,Customer Changed Mind
+210,3959,Customer Changed Mind
+211,2951,Damaged
+212,2443,Customer Changed Mind
+213,893,Damaged
+214,8026,Damaged
+215,4232,Wrong Item
+216,2122,Wrong Item
+217,6666,Damaged
+218,5458,Customer Changed Mind
+219,398,Customer Changed Mind
+220,9089,Customer Changed Mind
+221,2212,Damaged
+222,5620,Wrong Item
+223,2658,Customer Changed Mind
+224,1755,Damaged
+225,6728,Wrong Item
+226,2402,Customer Changed Mind
+227,1508,Damaged
+228,5826,Damaged
+229,9057,Wrong Item
+230,2136,Wrong Item
+231,4244,Customer Changed Mind
+232,4880,Wrong Item
+233,383,Damaged
+234,4563,Customer Changed Mind
+235,4325,Damaged
+236,5182,Damaged
+237,2323,Damaged
+238,6894,Damaged
+239,5784,Customer Changed Mind
+240,2004,Damaged
+241,4542,Wrong Item
+242,2232,Damaged
+243,1530,Damaged
+244,2255,Customer Changed Mind
+245,6520,Customer Changed Mind
+246,1327,Customer Changed Mind
+247,8436,Wrong Item
+248,2301,Damaged
+249,913,Damaged
+250,3681,Wrong Item
+251,4028,Wrong Item
+252,857,Customer Changed Mind
+253,6063,Wrong Item
+254,7228,Wrong Item
+255,8952,Customer Changed Mind
+256,9774,Wrong Item
+257,2788,Customer Changed Mind
+258,9755,Damaged
+259,7007,Customer Changed Mind
+260,4247,Wrong Item
+261,6104,Wrong Item
+262,1595,Customer Changed Mind
+263,949,Wrong Item
+264,9919,Damaged
+265,7063,Customer Changed Mind
+266,3352,Customer Changed Mind
+267,313,Wrong Item
+268,1512,Wrong Item
+269,9961,Wrong Item
+270,1298,Customer Changed Mind
+271,8686,Customer Changed Mind
+272,8116,Wrong Item
+273,9699,Customer Changed Mind
+274,1663,Damaged
+275,8509,Wrong Item
+276,4141,Customer Changed Mind
+277,8918,Damaged
+278,6322,Wrong Item
+279,8588,Customer Changed Mind
+280,1654,Wrong Item
+281,3720,Wrong Item
+282,3876,Wrong Item
+283,8986,Customer Changed Mind
+284,1516,Damaged
+285,4794,Damaged
+286,8687,Wrong Item
+287,2359,Customer Changed Mind
+288,9118,Customer Changed Mind
+289,7748,Customer Changed Mind
+290,579,Damaged
+291,5830,Customer Changed Mind
+292,4010,Wrong Item
+293,4824,Customer Changed Mind
+294,6108,Damaged
+295,7096,Damaged
+296,4198,Damaged
+297,799,Damaged
+298,3096,Customer Changed Mind
+299,7976,Customer Changed Mind
+300,4118,Damaged
+301,7897,Customer Changed Mind
+302,7703,Wrong Item
+303,5912,Damaged
+304,4307,Damaged
+305,7374,Customer Changed Mind
+306,5372,Wrong Item
+307,5809,Damaged
+308,2663,Wrong Item
+309,4493,Damaged
+310,1412,Customer Changed Mind
+311,6388,Damaged
+312,2581,Customer Changed Mind
+313,7511,Wrong Item
+314,2638,Customer Changed Mind
+315,4925,Customer Changed Mind
+316,1593,Damaged
+317,2291,Damaged
+318,6337,Wrong Item
+319,3809,Wrong Item
+320,7848,Wrong Item
+321,6503,Customer Changed Mind
+322,5054,Customer Changed Mind
+323,5173,Damaged
+324,77,Wrong Item
+325,8429,Damaged
+326,2592,Damaged
+327,2183,Customer Changed Mind
+328,8079,Damaged
+329,3588,Customer Changed Mind
+330,1683,Damaged
+331,961,Wrong Item
+332,6319,Wrong Item
+333,2839,Damaged
+334,4600,Damaged
+335,4190,Wrong Item
+336,5223,Wrong Item
+337,2862,Customer Changed Mind
+338,9126,Wrong Item
+339,1168,Customer Changed Mind
+340,2965,Wrong Item
+341,1722,Damaged
+342,1044,Damaged
+343,7474,Wrong Item
+344,8922,Damaged
+345,9526,Customer Changed Mind
+346,1020,Customer Changed Mind
+347,3817,Customer Changed Mind
+348,5242,Wrong Item
+349,3209,Customer Changed Mind
+350,5774,Damaged
+351,4845,Customer Changed Mind
+352,8272,Wrong Item
+353,9142,Customer Changed Mind
+354,7102,Damaged
+355,2464,Damaged
+356,3422,Wrong Item
+357,9536,Customer Changed Mind
+358,5123,Damaged
+359,78,Wrong Item
+360,1624,Wrong Item
+361,3288,Wrong Item
+362,7735,Wrong Item
+363,831,Wrong Item
+364,2635,Wrong Item
+365,675,Damaged
+366,7058,Customer Changed Mind
+367,4491,Wrong Item
+368,690,Customer Changed Mind
+369,5325,Wrong Item
+370,7762,Damaged
+371,4736,Damaged
+372,201,Customer Changed Mind
+373,5362,Wrong Item
+374,7005,Customer Changed Mind
+375,9048,Wrong Item
+376,1153,Wrong Item
+377,75,Wrong Item
+378,2311,Wrong Item
+379,7766,Wrong Item
+380,1078,Wrong Item
+381,4816,Damaged
+382,6834,Damaged
+383,5672,Wrong Item
+384,9790,Customer Changed Mind
+385,578,Customer Changed Mind
+386,4854,Damaged
+387,8053,Customer Changed Mind
+388,7715,Wrong Item
+389,6312,Wrong Item
+390,1344,Wrong Item
+391,7201,Wrong Item
+392,6578,Wrong Item
+393,7814,Customer Changed Mind
+394,2260,Customer Changed Mind
+395,5735,Wrong Item
+396,5932,Wrong Item
+397,7820,Customer Changed Mind
+398,4147,Customer Changed Mind
+399,5862,Wrong Item
+400,7521,Customer Changed Mind
+401,1921,Wrong Item
+402,9391,Damaged
+403,50,Wrong Item
+404,6696,Customer Changed Mind
+405,4915,Damaged
+406,6341,Customer Changed Mind
+407,8060,Customer Changed Mind
+408,1009,Customer Changed Mind
+409,4420,Damaged
+410,7786,Wrong Item
+411,5933,Damaged
+412,4478,Damaged
+413,8203,Damaged
+414,8655,Damaged
+415,9548,Damaged
+416,6421,Wrong Item
+417,8379,Wrong Item
+418,5866,Customer Changed Mind
+419,8288,Customer Changed Mind
+420,9801,Customer Changed Mind
+421,3239,Customer Changed Mind
+422,1501,Wrong Item
+423,2103,Customer Changed Mind
+424,1015,Wrong Item
+425,2984,Customer Changed Mind
+426,4609,Damaged
+427,7639,Wrong Item
+428,9300,Wrong Item
+429,537,Customer Changed Mind
+430,1621,Customer Changed Mind
+431,1386,Damaged
+432,9923,Damaged
+433,9422,Wrong Item
+434,9644,Customer Changed Mind
+435,4038,Wrong Item
+436,2246,Customer Changed Mind
+437,1227,Wrong Item
+438,5644,Wrong Item
+439,5336,Customer Changed Mind
+440,8415,Customer Changed Mind
+441,7041,Damaged
+442,3738,Customer Changed Mind
+443,5060,Wrong Item
+444,8296,Customer Changed Mind
+445,463,Customer Changed Mind
+446,9371,Damaged
+447,2120,Customer Changed Mind
+448,3022,Damaged
+449,4628,Damaged
+450,9172,Wrong Item
+451,7843,Wrong Item
+452,5945,Wrong Item
+453,3260,Customer Changed Mind
+454,5967,Customer Changed Mind
+455,771,Wrong Item
+456,520,Customer Changed Mind
+457,9363,Damaged
+458,617,Wrong Item
+459,491,Customer Changed Mind
+460,3041,Customer Changed Mind
+461,9285,Damaged
+462,4355,Wrong Item
+463,4253,Wrong Item
+464,3723,Customer Changed Mind
+465,2574,Wrong Item
+466,2729,Damaged
+467,470,Wrong Item
+468,1776,Damaged
+469,293,Customer Changed Mind
+470,6287,Damaged
+471,5012,Customer Changed Mind
+472,1954,Customer Changed Mind
+473,4936,Damaged
+474,7202,Damaged
+475,1286,Damaged
+476,938,Customer Changed Mind
+477,4021,Wrong Item
+478,9602,Customer Changed Mind
+479,6041,Damaged
+480,5405,Customer Changed Mind
+481,8498,Damaged
+482,8538,Damaged
+483,993,Wrong Item
+484,7782,Customer Changed Mind
+485,8042,Damaged
+486,7688,Customer Changed Mind
+487,3611,Wrong Item
+488,302,Damaged
+489,3124,Damaged
+490,9802,Customer Changed Mind
+491,10,Customer Changed Mind
+492,7314,Customer Changed Mind
+493,7910,Wrong Item
+494,7334,Wrong Item
+495,3255,Damaged
+496,3343,Customer Changed Mind
+497,4751,Wrong Item
+498,6429,Customer Changed Mind
+499,5806,Customer Changed Mind
+500,6366,Wrong Item
+501,9537,Customer Changed Mind
+502,9815,Damaged
+503,561,Damaged
+504,1239,Customer Changed Mind
+505,5456,Wrong Item
+506,7207,Customer Changed Mind
+507,3937,Damaged
+508,3660,Customer Changed Mind
+509,9190,Wrong Item
+510,4937,Wrong Item
+511,3167,Wrong Item
+512,2969,Wrong Item
+513,1674,Damaged
+514,614,Customer Changed Mind
+515,2174,Damaged
+516,8182,Wrong Item
+517,3491,Customer Changed Mind
+518,3083,Customer Changed Mind
+519,1132,Wrong Item
+520,4055,Customer Changed Mind
+521,6771,Wrong Item
+522,2634,Customer Changed Mind
+523,1646,Wrong Item
+524,6302,Damaged
+525,926,Customer Changed Mind
+526,1494,Damaged
+527,9837,Damaged
+528,5118,Damaged
+529,2743,Damaged
+530,5309,Damaged
+531,3292,Customer Changed Mind
+532,7297,Customer Changed Mind
+533,1409,Customer Changed Mind
+534,4611,Damaged
+535,5572,Wrong Item
+536,5874,Wrong Item
+537,504,Customer Changed Mind
+538,9836,Damaged
+539,3898,Customer Changed Mind
+540,3584,Damaged
+541,41,Wrong Item
+542,1007,Wrong Item
+543,5980,Damaged
+544,3800,Wrong Item
+545,1016,Damaged
+546,2521,Customer Changed Mind
+547,494,Damaged
+548,1586,Damaged
+549,1488,Wrong Item
+550,1926,Damaged
+551,4150,Wrong Item
+552,8177,Damaged
+553,3299,Wrong Item
+554,5375,Damaged
+555,2063,Damaged
+556,4388,Damaged
+557,717,Damaged
+558,2837,Customer Changed Mind
+559,7200,Customer Changed Mind
+560,8009,Wrong Item
+561,6301,Customer Changed Mind
+562,4927,Customer Changed Mind
+563,8312,Wrong Item
+564,8586,Customer Changed Mind
+565,2252,Wrong Item
+566,4318,Customer Changed Mind
+567,1973,Wrong Item
+568,4067,Wrong Item
+569,3144,Customer Changed Mind
+570,2800,Wrong Item
+571,4908,Damaged
+572,9186,Customer Changed Mind
+573,9938,Damaged
+574,1164,Customer Changed Mind
+575,927,Customer Changed Mind
+576,9179,Wrong Item
+577,9730,Wrong Item
+578,8482,Wrong Item
+579,8476,Customer Changed Mind
+580,2787,Wrong Item
+581,8916,Damaged
+582,8836,Damaged
+583,7342,Customer Changed Mind
+584,8578,Customer Changed Mind
+585,2020,Wrong Item
+586,8135,Damaged
+587,9095,Wrong Item
+588,8857,Wrong Item
+589,5133,Wrong Item
+590,6236,Wrong Item
+591,400,Damaged
+592,6208,Wrong Item
+593,6972,Damaged
+594,5548,Damaged
+595,9320,Customer Changed Mind
+596,1714,Wrong Item
+597,3869,Customer Changed Mind
+598,1033,Customer Changed Mind
+599,3301,Customer Changed Mind
+600,5733,Damaged
+601,5573,Wrong Item
+602,2655,Customer Changed Mind
+603,3235,Damaged
+604,4884,Customer Changed Mind
+605,2294,Damaged
+606,3042,Damaged
+607,9907,Damaged
+608,9586,Damaged
+609,7157,Wrong Item
+610,722,Damaged
+611,81,Customer Changed Mind
+612,1043,Wrong Item
+613,5503,Customer Changed Mind
+614,4540,Wrong Item
+615,1318,Customer Changed Mind
+616,5350,Customer Changed Mind
+617,6537,Damaged
+618,2405,Customer Changed Mind
+619,9178,Wrong Item
+620,64,Customer Changed Mind
+621,6925,Damaged
+622,2340,Damaged
+623,9936,Wrong Item
+624,982,Customer Changed Mind
+625,54,Damaged
+626,3853,Wrong Item
+627,901,Wrong Item
+628,6184,Damaged
+629,6678,Wrong Item
+630,4064,Customer Changed Mind
+631,2946,Customer Changed Mind
+632,4168,Customer Changed Mind
+633,20,Wrong Item
+634,6268,Wrong Item
+635,8714,Customer Changed Mind
+636,6237,Customer Changed Mind
+637,7409,Damaged
+638,2861,Customer Changed Mind
+639,6530,Wrong Item
+640,5612,Damaged
+641,1911,Wrong Item
+642,4000,Wrong Item
+643,8814,Customer Changed Mind
+644,3297,Damaged
+645,1284,Wrong Item
+646,3551,Wrong Item
+647,8267,Customer Changed Mind
+648,5459,Wrong Item
+649,5295,Wrong Item
+650,6058,Customer Changed Mind
+651,1247,Customer Changed Mind
+652,1934,Customer Changed Mind
+653,6123,Wrong Item
+654,188,Damaged
+655,9423,Wrong Item
+656,7792,Damaged
+657,8418,Wrong Item
+658,1953,Wrong Item
+659,7043,Damaged
+660,5852,Wrong Item
+661,5488,Wrong Item
+662,3279,Wrong Item
+663,4685,Wrong Item
+664,582,Wrong Item
+665,6004,Damaged
+666,8680,Wrong Item
+667,8935,Damaged
+668,7841,Wrong Item
+669,3472,Customer Changed Mind
+670,5239,Wrong Item
+671,3693,Customer Changed Mind
+672,1948,Damaged
+673,5179,Wrong Item
+674,8711,Customer Changed Mind
+675,3116,Customer Changed Mind
+676,8885,Customer Changed Mind
+677,4356,Wrong Item
+678,4418,Wrong Item
+679,4548,Customer Changed Mind
+680,5266,Damaged
+681,1421,Customer Changed Mind
+682,7648,Damaged
+683,8567,Wrong Item
+684,9522,Wrong Item
+685,2688,Wrong Item
+686,5846,Damaged
+687,1201,Wrong Item
+688,5990,Customer Changed Mind
+689,2849,Customer Changed Mind
+690,7947,Customer Changed Mind
+691,3304,Wrong Item
+692,332,Customer Changed Mind
+693,2843,Damaged
+694,7861,Damaged
+695,6373,Damaged
+696,3641,Damaged
+697,8036,Customer Changed Mind
+698,9951,Damaged
+699,5356,Customer Changed Mind
+700,6577,Wrong Item
+701,7484,Customer Changed Mind
+702,2670,Customer Changed Mind
+703,8798,Customer Changed Mind
+704,116,Customer Changed Mind
+705,1588,Wrong Item
+706,7633,Customer Changed Mind
+707,2348,Damaged
+708,3632,Customer Changed Mind
+709,5175,Wrong Item
+710,848,Damaged
+711,7876,Damaged
+712,5567,Wrong Item
+713,3371,Customer Changed Mind
+714,1705,Customer Changed Mind
+715,7012,Customer Changed Mind
+716,3106,Wrong Item
+717,4338,Wrong Item
+718,1306,Damaged
+719,4463,Customer Changed Mind
+720,8601,Customer Changed Mind
+721,284,Wrong Item
+722,9304,Wrong Item
+723,3766,Damaged
+724,2731,Customer Changed Mind
+725,8698,Damaged
+726,1334,Damaged
+727,6715,Wrong Item
+728,8898,Customer Changed Mind
+729,5342,Damaged
+730,9843,Customer Changed Mind
+731,9870,Wrong Item
+732,3834,Damaged
+733,4557,Customer Changed Mind
+734,9804,Customer Changed Mind
+735,8517,Customer Changed Mind
+736,1175,Wrong Item
+737,9858,Damaged
+738,7355,Damaged
+739,1454,Customer Changed Mind
+740,663,Damaged
+741,933,Wrong Item
+742,9298,Customer Changed Mind
+743,5318,Customer Changed Mind
+744,1014,Wrong Item
+745,4911,Customer Changed Mind
+746,3680,Damaged
+747,8016,Damaged
+748,914,Wrong Item
+749,6791,Wrong Item
+750,5468,Damaged
+751,324,Customer Changed Mind
+752,1269,Wrong Item
+753,3259,Damaged
+754,5885,Damaged
+755,3880,Wrong Item
+756,2556,Customer Changed Mind
+757,8179,Damaged
+758,533,Customer Changed Mind
+759,5445,Damaged
+760,3392,Wrong Item
+761,3946,Damaged
+762,4852,Customer Changed Mind
+763,3537,Damaged
+764,8815,Damaged
+765,3550,Wrong Item
+766,7057,Customer Changed Mind
+767,6045,Customer Changed Mind
+768,3848,Customer Changed Mind
+769,4187,Wrong Item
+770,6991,Customer Changed Mind
+771,9670,Damaged
+772,3992,Customer Changed Mind
+773,442,Damaged
+774,6946,Damaged
+775,867,Damaged
+776,2495,Wrong Item
+777,8984,Wrong Item
+778,5556,Wrong Item
+779,1573,Wrong Item
+780,702,Damaged
+781,4423,Damaged
+782,4962,Customer Changed Mind
+783,3053,Wrong Item
+784,6356,Customer Changed Mind
+785,8245,Wrong Item
+786,6825,Wrong Item
+787,9943,Customer Changed Mind
+788,4092,Wrong Item
+789,3813,Customer Changed Mind
+790,3100,Damaged
+791,6370,Damaged
+792,3557,Customer Changed Mind
+793,883,Customer Changed Mind
+794,3056,Damaged
+795,2693,Damaged
+796,4579,Wrong Item
+797,3479,Wrong Item
+798,8293,Damaged
+799,5698,Wrong Item
+800,5410,Customer Changed Mind
+801,1658,Customer Changed Mind
+802,8335,Damaged
+803,6448,Customer Changed Mind
+804,9895,Wrong Item
+805,3654,Wrong Item
+806,8497,Damaged
+807,5787,Wrong Item
+808,6220,Damaged
+809,7541,Wrong Item
+810,6294,Wrong Item
+811,4928,Wrong Item
+812,7332,Damaged
+813,4862,Damaged
+814,5479,Wrong Item
+815,6415,Wrong Item
+816,8736,Wrong Item
+817,1727,Customer Changed Mind
+818,4403,Customer Changed Mind
+819,662,Wrong Item
+820,8809,Customer Changed Mind
+821,7989,Wrong Item
+822,583,Customer Changed Mind
+823,8825,Customer Changed Mind
+824,8878,Wrong Item
+825,3117,Damaged
+826,2966,Customer Changed Mind
+827,5015,Damaged
+828,7935,Customer Changed Mind
+829,413,Damaged
+830,5226,Damaged
+831,7097,Wrong Item
+832,4754,Damaged
+833,495,Customer Changed Mind
+834,3506,Wrong Item
+835,4137,Wrong Item
+836,3048,Wrong Item
+837,8753,Damaged
+838,6649,Damaged
+839,1849,Customer Changed Mind
+840,5071,Customer Changed Mind
+841,1244,Customer Changed Mind
+842,379,Customer Changed Mind
+843,4239,Customer Changed Mind
+844,1144,Wrong Item
+845,8307,Damaged
+846,4358,Wrong Item
+847,5435,Damaged
+848,2189,Wrong Item
+849,3922,Damaged
+850,4506,Customer Changed Mind
+851,4982,Wrong Item
+852,1377,Customer Changed Mind
+853,8566,Wrong Item
+854,5051,Wrong Item
+855,9662,Wrong Item
+856,1773,Customer Changed Mind
+857,8268,Customer Changed Mind
+858,410,Wrong Item
+859,789,Wrong Item
+860,4864,Wrong Item
+861,5041,Wrong Item
+862,2890,Customer Changed Mind
+863,1967,Damaged
+864,4135,Damaged
+865,8564,Wrong Item
+866,8724,Wrong Item
+867,7160,Damaged
+868,2718,Damaged
+869,7059,Wrong Item
+870,7962,Wrong Item
+871,4306,Damaged
+872,8184,Customer Changed Mind
+873,3442,Wrong Item
+874,5790,Damaged
+875,3868,Customer Changed Mind
+876,3195,Damaged
+877,1340,Wrong Item
+878,6553,Damaged
+879,2541,Wrong Item
+880,5438,Customer Changed Mind
+881,9469,Customer Changed Mind
+882,5074,Wrong Item
+883,8649,Wrong Item
+884,715,Wrong Item
+885,380,Customer Changed Mind
+886,5563,Damaged
+887,9524,Wrong Item
+888,5897,Customer Changed Mind
+889,9353,Customer Changed Mind
+890,5218,Damaged
+891,7578,Wrong Item
+892,4263,Damaged
+893,7981,Wrong Item
+894,8921,Wrong Item
+895,3246,Wrong Item
+896,67,Damaged
+897,6298,Customer Changed Mind
+898,1641,Customer Changed Mind
+899,5083,Customer Changed Mind
+900,1803,Customer Changed Mind
+901,1425,Wrong Item
+902,8506,Damaged
+903,4430,Wrong Item
+904,6518,Wrong Item
+905,1097,Damaged
+906,7489,Wrong Item
+907,5269,Damaged
+908,2257,Wrong Item
+909,7105,Customer Changed Mind
+910,9986,Wrong Item
+911,2836,Wrong Item
+912,4871,Wrong Item
+913,7394,Wrong Item
+914,7589,Wrong Item
+915,8705,Damaged
+916,7933,Customer Changed Mind
+917,4957,Customer Changed Mind
+918,4174,Damaged
+919,2957,Damaged
+920,7965,Wrong Item
+921,7225,Wrong Item
+922,7047,Wrong Item
+923,7829,Damaged
+924,4170,Wrong Item
+925,1417,Damaged
+926,1651,Wrong Item
+927,7895,Damaged
+928,3454,Customer Changed Mind
+929,2955,Damaged
+930,483,Wrong Item
+931,2279,Damaged
+932,8741,Wrong Item
+933,4461,Wrong Item
+934,8386,Wrong Item
+935,6531,Wrong Item
+936,5940,Wrong Item
+937,5810,Customer Changed Mind
+938,9333,Customer Changed Mind
+939,6149,Wrong Item
+940,5963,Damaged
+941,8433,Damaged
+942,8552,Customer Changed Mind
+943,8260,Customer Changed Mind
+944,4458,Wrong Item
+945,2149,Damaged
+946,3599,Damaged
+947,1160,Wrong Item
+948,8452,Damaged
+949,805,Customer Changed Mind
+950,866,Wrong Item
+951,6980,Damaged
+952,4450,Damaged
+953,8633,Customer Changed Mind
+954,8683,Wrong Item
+955,6124,Customer Changed Mind
+956,8863,Damaged
+957,7485,Wrong Item
+958,6069,Customer Changed Mind
+959,4715,Customer Changed Mind
+960,3769,Wrong Item
+961,5993,Damaged
+962,3854,Wrong Item
+963,9299,Customer Changed Mind
+964,202,Customer Changed Mind
+965,8220,Wrong Item
+966,6653,Wrong Item
+967,743,Wrong Item
+968,4314,Wrong Item
+969,6361,Customer Changed Mind
+970,5467,Wrong Item
+971,4961,Wrong Item
+972,4366,Customer Changed Mind
+973,3305,Customer Changed Mind
+974,2113,Customer Changed Mind
+975,788,Wrong Item
+976,5409,Wrong Item
+977,9921,Damaged
+978,4101,Wrong Item
+979,2485,Damaged
+980,5002,Wrong Item
+981,140,Customer Changed Mind
+982,8555,Damaged
+983,6768,Damaged
+984,1061,Customer Changed Mind
+985,543,Damaged
+986,2813,Wrong Item
+987,3329,Damaged
+988,6145,Customer Changed Mind
+989,7141,Wrong Item
+990,8505,Damaged
+991,4413,Wrong Item
+992,1364,Damaged
+993,4294,Customer Changed Mind
+994,5571,Damaged
+995,3771,Customer Changed Mind
+996,6770,Wrong Item
+997,7080,Wrong Item
+998,7865,Wrong Item
+999,3183,Damaged
+1000,5938,Customer Changed Mind
